@@ -16,7 +16,7 @@ Sistem ini bekerja dengan cara berikut:
 1. Pastikan Anda memiliki server web dan database MySQL yang berjalan.
 2. Clone repositori ini:
    ```bash
-   git clone [URL repositori]
+   git clone [https://github.com/kadek889/Task-management.git]
    ```
 3. Konfigurasi database di `config/config.php` dengan kredensial database Anda.
 4. Import file `task_manager.sql` ke dalam database MySQL Anda.
